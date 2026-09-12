@@ -1,24 +1,408 @@
-# 💫 About Me:
-🧑‍💻 I’m currently working on:<br>Building PrepWise, an AI-powered mock interview platform using React, Firebase, and Vapi voice AI to simulate real interview experiences.<br><br>🤝 I’m looking to collaborate on:<br>Projects involving React Native, AI integrations, and serverless architectures (Vercel, Firebase, or AWS).<br><br>🧠 I’m looking for help with:<br>Improving AI-driven interview logic using Gemini API and enhancing real-time voice interactions.<br><br>🌱 I’m currently learning:<br>Advanced backend development, cloud functions, and voice AI workflows.<br><br>💬 Ask me about:<br>React, React Native, Firebase, Gemini AI, and full-stack app architecture.<br><br>⚡ Fun fact:<br>I love turning experimental ideas into fully functional apps — and I usually debug best at 2 AM with coffee ☕.
+<!-- HEADER -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ziya Mohammad ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ziya_mohammad_.123) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-ziya-84a97232a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ziya7376502028@gmail.com) 
+# `MOHAMMAD ZIYA`
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ziyamohammad&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ziyamohammad&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyamohammad&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Software Engineer · Backend · Full-Stack · AI
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ziyamohammad&theme=vue&no-frame=false&no-bg=false&margin-w=4)
+**Building production systems, backend infrastructure, and AI-powered products.**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ziyamohammad&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/>
+
+<a href="https://portfolio-nine-omega-07s29hbjh0.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/mohammad-ziya-84a97232a">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/ziyamohammad">
+<img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/Mohammad_ziya12/">
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ziyamohammad&icon=3&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table>
+<tr>
+<td width="50%" bgcolor="#0D1117">
+
+### ⚡ CURRENTLY
+
+**Software Engineer Intern @ Zyra AI**
+
+Working on backend systems, APIs, integrations, databases, AI workflows, and production infrastructure.
+
+</td>
+
+<td width="50%" bgcolor="#111827">
+
+### 🚀 ALSO BUILDING
+
+**NoCapCode**
+
+Building and shipping internal tools, SaaS products, and platforms from architecture to production.
+
+</td>
+</tr>
+</table>
+
+---
+
+## `WHOAMI`
+
+I'm a **Computer Science & IT student at AKGEC Ghaziabad** and a backend-focused software engineer.
+
+I enjoy taking systems from **idea → architecture → implementation → deployment → real users**.
+
+My work sits at the intersection of:
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   BACKEND        DATABASES       AI / AUTOMATION    │
+│       │               │                 │            │
+│       └───────────────┼─────────────────┘            │
+│                       │                              │
+│                 SYSTEM DESIGN                        │
+│                       │                              │
+│                       ▼                              │
+│                PRODUCTION SOFTWARE                  │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+# `PROJECTS`
+
+## ◉ Nexgn
+
+### Digital E-Signing Platform
+
+An end-to-end **electronic signing platform** designed around secure digital document workflows.
+
+The system includes document management, authentication, signing workflows, permissions, APIs, and production infrastructure.
+
+```text
+STATUS        → Testing
+LAUNCH        → 20 September 2026
+COMING SOON   → nexgn.cloud
+PRODUCTION    → prod.nexgn.cloud
+WEB APP       → sign.nexgn.cloud
+```
+
+---
+
+## ◉ Atlas
+
+### Internal CRM & Job Portal
+
+A production **CRM and internal job-management platform for NoCapCode**.
+
+Designed to centralize hiring workflows, candidate information, internal processes, and company operations.
+
+```text
+TYPE          → Internal Business Platform
+STATUS        → LIVE
+FOCUS         → CRM / Hiring / Operations
+```
+
+---
+
+## ◉ Dox
+
+### Intern Onboarding Platform
+
+An internal platform built for **NoCapCode** to streamline and manage the complete intern onboarding workflow.
+
+```text
+TYPE          → Internal Platform
+STATUS        → LIVE
+FOCUS         → Onboarding / Operations
+```
+
+---
+
+## ◉ School ERP
+
+### Educational Management Platform
+
+A large-scale ERP system being designed for educational institutions.
+
+The **system architecture and database design are already completed**, while the product/UI design phase is currently underway.
+
+```text
+SYSTEM DESIGN       ████████████████████  COMPLETE
+DATABASE DESIGN     ████████████████████  COMPLETE
+PRODUCT DESIGN      ███████████░░░░░░░░  IN PROGRESS
+BACKEND             ░░░░░░░░░░░░░░░░░░░░  NEXT
+```
+
+---
+
+## ◉ Baat-Chit
+
+A real-time communication platform built around **WebSockets and live messaging**.
+
+Focused on low-latency communication, persistent connections, and real-time user interactions.
+
+---
+
+## ◉ NoCapCode Website
+
+An interactive company website built with:
+
+`Three.js` · `GSAP` · `Framer Motion`
+
+Focused on immersive visuals, motion, and a modern interactive experience.
+
+---
+
+## ◉ JobSeeker AI
+
+An AI-powered recruitment platform designed to assist users throughout the job discovery and recruitment process.
+
+Focused on **LLM-powered workflows and intelligent automation**.
+
+---
+
+## ◉ Hotel Booking
+
+A backend-focused reservation system involving:
+
+`REST APIs` · `Authentication` · `Database Design` · `Booking Workflows`
+
+---
+
+## ◉ 2D Multiplayer Game
+
+A multiplayer game currently under development with an emphasis on **real-time state synchronization and player interaction**.
+
+---
+
+
+## ◉ CHARAK
+
+A healthcare platform currently in the **planning and documentation stage**, with the product concept and system direction defined.
+
+---
+
+# `TECH STACK`
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=fff)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=000)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=c%2B%2B\&logoColor=fff)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=fff)
+![Express.js](https://img.shields.io/badge/Express.js-111111?style=flat-square\&logo=express\&logoColor=fff)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=fff)
+![REST](https://img.shields.io/badge/REST_APIs-111827?style=flat-square)
+![WebSockets](https://img.shields.io/badge/WebSockets-111827?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-111827?style=flat-square\&logo=jsonwebtokens\&logoColor=fff)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square\&logo=next.js\&logoColor=fff)
+![Three.js](https://img.shields.io/badge/Three.js-111111?style=flat-square\&logo=three.js\&logoColor=fff)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=fff)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square\&logo=greensock\&logoColor=000)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=fff)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=fff)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=000)
+
+### Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazon-aws\&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=fff)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square\&logo=nginx\&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=github-actions\&logoColor=fff)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=fff)
+![Railway](https://img.shields.io/badge/Railway-000000?style=flat-square\&logo=railway\&logoColor=fff)
+
+### AI / Tools
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square\&logo=openai\&logoColor=fff)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square\&logo=langchain\&logoColor=fff)
+![Cursor](https://img.shields.io/badge/Cursor-111111?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=fff)
+
+---
+
+# `ENGINEERING FOCUS`
+
+<table>
+<tr>
+<td bgcolor="#0D1117" align="center">
+
+### BACKEND
+
+APIs
+Authentication
+Integrations
+Real-time Systems
+
+</td>
+
+<td bgcolor="#111827" align="center">
+
+### DATA
+
+PostgreSQL
+MongoDB
+Redis
+Data Modelling
+
+</td>
+
+<td bgcolor="#0D1117" align="center">
+
+### AI
+
+LLM APIs
+AI Workflows
+Automation
+Intelligent Systems
+
+</td>
+
+<td bgcolor="#111827" align="center">
+
+### INFRA
+
+AWS
+Docker
+NGINX
+CI/CD
+
+</td>
+</tr>
+</table>
+
+---
+
+# `CURRENTLY LEARNING`
+
+```text
+┌─────────────────────────────────────┐
+│ Advanced Backend Architecture       │
+│ Distributed Systems                 │
+│ AI Agents & Workflows               │
+│ System Design                       │
+│ Production Infrastructure           │
+│ Advanced DSA                         │
+└─────────────────────────────────────┘
+```
+
+---
+
+# `ACHIEVEMENTS`
+
+<table>
+<tr>
+<td bgcolor="#0D1117">
+
+🏆 **4th Place Nationally**
+DevGathering Hackathon 2025
+
+</td>
+
+<td bgcolor="#111827">
+
+🏆 **Top 300 Nationally**
+Code for Bharat Season 2
+
+</td>
+</tr>
+
+<tr>
+<td bgcolor="#111827">
+
+🧠 **100/100**
+CBSE Mathematics
+
+</td>
+
+<td bgcolor="#0D1117">
+
+👨‍🏫 **90+ Students**
+Backend & Full-Stack Workshops
+
+</td>
+</tr>
+</table>
+
+---
+
+# `HOW I BUILD`
+
+```text
+                IDEA
+                  │
+                  ▼
+            SYSTEM DESIGN
+                  │
+                  ▼
+           DATABASE MODEL
+                  │
+                  ▼
+            BACKEND / API
+                  │
+                  ▼
+         FRONTEND / CLIENT
+                  │
+                  ▼
+       TESTING & DEBUGGING
+                  │
+                  ▼
+             DEPLOYMENT
+                  │
+                  ▼
+              REAL USERS
+```
+
+> I don't just like building demos.
+>
+> I like taking software all the way to production.
+
+---
+
+<div align="center">
+
+### `BUILD • SHIP • LEARN • REPEAT`
+
+<br/>
+
+**Let's build something useful.**
+
+<br/>
+
+<a href="https://portfolio-nine-omega-07s29hbjh0.vercel.app/">
+<img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ziyamohammad&style=flat-square&color=2563EB" alt="Profile views"/>
+</p>
