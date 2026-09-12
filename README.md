@@ -88,15 +88,6 @@ An end-to-end **electronic signing platform** designed around secure digital doc
 
 The system includes document management, authentication, signing workflows, permissions, APIs, and production infrastructure.
 
-```text
-STATUS        → Testing
-LAUNCH        → 20 September 2026
-COMING SOON   → nexgn.cloud
-PRODUCTION    → prod.nexgn.cloud
-WEB APP       → sign.nexgn.cloud
-```
-
----
 
 ## ◉ Atlas
 
@@ -105,13 +96,6 @@ WEB APP       → sign.nexgn.cloud
 A production **CRM and internal job-management platform for NoCapCode**.
 
 Designed to centralize hiring workflows, candidate information, internal processes, and company operations.
-
-```text
-TYPE          → Internal Business Platform
-STATUS        → LIVE
-FOCUS         → CRM / Hiring / Operations
-```
-
 ---
 
 ## ◉ Dox
@@ -119,12 +103,6 @@ FOCUS         → CRM / Hiring / Operations
 ### Intern Onboarding Platform
 
 An internal platform built for **NoCapCode** to streamline and manage the complete intern onboarding workflow.
-
-```text
-TYPE          → Internal Platform
-STATUS        → LIVE
-FOCUS         → Onboarding / Operations
-```
 
 ---
 
@@ -135,13 +113,6 @@ FOCUS         → Onboarding / Operations
 A large-scale ERP system being designed for educational institutions.
 
 The **system architecture and database design are already completed**, while the product/UI design phase is currently underway.
-
-```text
-SYSTEM DESIGN       ████████████████████  COMPLETE
-DATABASE DESIGN     ████████████████████  COMPLETE
-PRODUCT DESIGN      ███████████░░░░░░░░  IN PROGRESS
-BACKEND             ░░░░░░░░░░░░░░░░░░░░  NEXT
-```
 
 ---
 
@@ -168,20 +139,6 @@ Focused on immersive visuals, motion, and a modern interactive experience.
 An AI-powered recruitment platform designed to assist users throughout the job discovery and recruitment process.
 
 Focused on **LLM-powered workflows and intelligent automation**.
-
----
-
-## ◉ Hotel Booking
-
-A backend-focused reservation system involving:
-
-`REST APIs` · `Authentication` · `Database Design` · `Booking Workflows`
-
----
-
-## ◉ 2D Multiplayer Game
-
-A multiplayer game currently under development with an emphasis on **real-time state synchronization and player interaction**.
 
 ---
 
